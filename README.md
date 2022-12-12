@@ -5,7 +5,7 @@
 - 🌱 I’m using P5, Hydra, superCollider, TidalCycles. 
 - I'm co-ordinating a new series of Algoraves in Hastings, Sussex, 'the home of television' where John Logie Baird carried out his analogue tv experiments and had his famous breakthrough. My laboratory is at 15 Kings Road, St Leonards-on-Sea please come visit and explore with me.
 - 💞️ Collaboration - I love to work with people on new media, live coding television, archive, sanctuary for the lost and forgotten sights sounds and smells of broadcasting past.
-- Check out some of my experiments and past life on Youtube at https://www.youtube.com/c/JudeMontague
+- I record experiments at Youtube at https://www.youtube.com/c/JudeMontague
 -
 - 📫 judemontague@outlook.com
 
